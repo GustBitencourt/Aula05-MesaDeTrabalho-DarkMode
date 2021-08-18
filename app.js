@@ -1,5 +1,4 @@
 let btn = document.querySelector('#btn');
-let varli = document.querySelector('li');
 
 
 btn.addEventListener('click',function(event){
